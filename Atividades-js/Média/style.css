@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:darkcyan;
+    text-align: center;
+    color: white;
+}
+
+button{
+    margin-top: 30px;
+}
+
+input{
+    margin-top: 10px;
+}
+
